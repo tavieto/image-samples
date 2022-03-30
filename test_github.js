@@ -1,1 +1,1 @@
-alert("VIM PELO GITHUB")
+console.log("VIM PELO GITHUB")
